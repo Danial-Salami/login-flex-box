@@ -43,7 +43,7 @@ body {
 }
 
 input {
-    padding-left: 3px;
+    padding-left: 4px;
 }
 
 .my-input::placeholder {
