@@ -81,3 +81,7 @@ input {
     cursor: pointer;
     text-decoration: underline;
 }
+
+.span1:hover {
+    cursor: default;
+}
